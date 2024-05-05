@@ -1,3 +1,7 @@
+Github：[TJU-Spring-2024-DataMining/Homework4 at main · MomoyamaSawa/TJU-Spring-2024-DataMining (github.com)](https://github.com/MomoyamaSawa/TJU-Spring-2024-DataMining/tree/main/Homework4)
+
+笔记：https://momoyamasawa.notion.site/5f0c8cef4c7d45d59586c9505328fa40?pvs=4
+
 # 代码功能
 
 这里有四个代码文件，下面分文件来介绍功能：
